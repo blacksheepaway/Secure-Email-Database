@@ -16,10 +16,9 @@ O aplicativo permite ao usuário inserir informações de contato, como nome, em
 
 ## Exemplo
 
-1. Abra o aplicativo e insira o nome, email e senha desejados nos campos apropriados.
-2. Clique no botão "Adicionar Email" para salvar as informações no banco de dados local.
-3. As informações de contato serão exibidas na tela, juntamente com um botão "Apagar" que permite ao usuário remover informações específicas.
-4. Para visualizar as informações armazenadas, basta abrir o aplicativo novamente. Os dados serão carregados e exibidos automaticamente.
+![image](https://user-images.githubusercontent.com/50200471/231049278-fea906f4-767d-4b2c-adf4-a8dd5df60064.png)
+![image](https://user-images.githubusercontent.com/50200471/231049316-f1133926-4b03-41fe-9112-907ef5af2583.png)
+
 
 ## Perspectivas futuras
 
