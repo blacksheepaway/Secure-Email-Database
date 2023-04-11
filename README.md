@@ -25,11 +25,9 @@ O aplicativo permite ao usuário inserir informações de contato, como nome, em
 Este aplicativo pode ser adaptado ou expandido para atender a outras necessidades específicas, como:
 
 - Adicionar suporte para outras informações de contato, como endereço, telefone e redes sociais.
-- Implementar uma solução de armazenamento em nuvem para sincronizar os dados entre dispositivos.
+- Implementar uma solução de armazenamento na nuvem para sincronizar os dados entre dispositivos.
 - Adicionar recursos de importação e exportação para facilitar a migração de dados entre aplicativos ou plataformas.
 - Melhorar a criptografia e a segurança dos dados armazenados, utilizando algoritmos mais avançados e práticas recomendadas.
-
-Focar nessas possíveis melhorias pode tornar o aplicativo mais atraente para empregadores em busca de habilidades específicas e versatilidade na resolução de problemas.
 
 ## Contribuição
 
