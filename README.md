@@ -20,7 +20,7 @@ O aplicativo permite ao usuário inserir informações de contato, como nome, em
 ![image](https://user-images.githubusercontent.com/50200471/231049316-f1133926-4b03-41fe-9112-907ef5af2583.png)
 
 
-## Perspectivas futuras
+## Melhorias possíveis
 
 Este aplicativo pode ser adaptado ou expandido para atender a outras necessidades específicas, como:
 
